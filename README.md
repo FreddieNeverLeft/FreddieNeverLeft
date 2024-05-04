@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Masters in CS student at the University of British Columbia<br>👯 I’m part of UBC Parklab  <br>🌱 I’m cosupervised by Professor Mijung Park and Professor Xiaoxiao Li<br>🤝 I’m looking for Internships/NG in ML or Software Development!<br><br>
+
 
 
 ## 🌐 Socials:
